@@ -1,5 +1,5 @@
 ## OLÁ! EU SOU CAIO CÉSAR. 
-- 🤖 Cursando ADS, primeiro semestre.
+- 🤖 Cursando ADS, segundo semestre.
 - 🌱 Atualmente estudando Python.
 - 😄 Pronome: Ele/dele.
 <div align="center">
