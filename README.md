@@ -1,4 +1,4 @@
-## OLÁ! EU SOU CAIO CÉSAR. 
+## Salve, meu nome é Caio. 
 - 🤖 Cursando ADS, segundo semestre.
 - 🌱 Atualmente estudando Python.
 - 😄 Pronome: Ele/dele.
