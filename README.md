@@ -1,6 +1,6 @@
 ## Salve, meu nome é Caio. 
 - 🤖 Cursando ADS, segundo semestre.
-- 🌱 Atualmente estudando Python.
+- 🌱 Atualmente estudando Banco de Dados, JavaScript e HTML.
 - 😄 Pronome: Ele/dele.
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Caosezar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
