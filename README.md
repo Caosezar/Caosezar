@@ -2,8 +2,6 @@
 - 🤖 Cursando ADS, Terceiro semestre.
 - 🌱 Atualmente estudando Java, Angular, JavaScript e HTML.
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Caosezar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caosezar&layout=compact&langs_count=7&theme=dark"/>
 </div>
 </div>
 <div style="display: inline_block"><br>
