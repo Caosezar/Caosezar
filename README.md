@@ -1,6 +1,6 @@
 ## Salve, meu nome é Caio. 
 - 🤖 Cursando ADS, Terceiro semestre.
-- 🌱 Atualmente estudando C#, .NET e Banco de Dados.
+- 🌱 Atualmente trabalhando com .NET e Angular.
 <div align="center">
 </div>
 </div>
