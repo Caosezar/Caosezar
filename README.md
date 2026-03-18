@@ -11,6 +11,8 @@
   <img align="center" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="React" height="30" widht="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   <img align="center" alt="NodeJs" height"25" width="25" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://static-cdn.jtvnw.net/jtv_user_pictures/77861d9d-0c02-47d7-b466-6a70fbc1da9e-profile_image-300x300.png">
 </div>
 
